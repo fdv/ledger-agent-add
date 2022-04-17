@@ -1,5 +1,7 @@
 # Ledger Agent Add
 
+(install https://www.xquartz.org/ to avoid Warning about DISPLAY var)
+
 A wrapper using Ledger agent to:
 
 * Generates a new SSH key for your user@host.
